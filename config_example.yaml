@@ -1,0 +1,4 @@
+luminati_password: <luminati password>
+luminati_username: <luminati username>
+webhook_url: https://hooks.slack.com/services/<app token>
+
